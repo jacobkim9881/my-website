@@ -95,6 +95,7 @@ module.exports = {
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
+	  searchbarCss: require.resolve('./src/theme/SearchBar/searchbar.css'),		
         },
       },
     ],

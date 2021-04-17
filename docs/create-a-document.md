@@ -4,7 +4,7 @@ title: Create a Document
 
 Documents are pages with a **sidebar**, a **previous/next navigation** and many other useful features.
 
-## Create a Document
+## Create a Document {#create-a-document}
 
 Create a markdown file at `docs/my-doc.md`:
 
@@ -20,7 +20,7 @@ This is your first document in **Docusaurus**, Congratulations!
 
 A new document is now available at `http://localhost:3000/docs/hello`.
 
-## Add your document to the sidebar
+## Add your document to the sidebar {#add-your-document-to-the-sidebar}
 
 Add `hello` to the `sidebars.js` file:
 

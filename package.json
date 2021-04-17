@@ -2,6 +2,9 @@
   "name": "my-website",
   "version": "0.0.0",
   "private": true,
+  "browser": {
+    "fs": false
+  },
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
@@ -17,15 +20,22 @@
     "@docusaurus/core": "2.0.0-alpha.72",
     "@docusaurus/preset-classic": "2.0.0-alpha.72",
     "@mdx-js/react": "^1.6.21",
+    "classnames": "^2.2.6",
     "clsx": "^1.1.1",
     "docusaurus-lunr-search": "^2.1.10",
+    "fs": "0.0.1-security",
     "html-to-md": "^0.3.9",
+    "list-files": "^1.1.4",
+    "list-react-files": "^0.2.0",
     "lunr": "^2.3.9",
     "md-2-json": "^1.0.6",
     "node-html-markdown": "^0.1.5",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-lunr": "^1.1.0",
+    "react-markdown": "^5.0.3",
+    "react-md-file": "^2.0.0",
+    "styled-components": "^5.2.1",
     "turndown": "^7.0.0"
   },
   "browserslist": {

@@ -1,0 +1,33 @@
+.dropdown {
+    border-radius: 4px;
+    margin: 6px -300px 0;
+    padding: 0;
+    text-align: left;
+    height: auto;
+    position: absolute;
+    background: #ebedf0;
+    border: none;
+    z-index: 999;
+    max-width: 600px;
+    min-width: 500px;   
+}
+
+.hide {
+  display: none;
+}
+
+.result-raw {
+
+}
+
+.result-raw:hover {
+  background: #c5cbd3;
+}
+
+.result-raw-td {
+  padding : 10px;
+  color: black;
+}
+
+.result-raw:hover .result-raw-td {
+}

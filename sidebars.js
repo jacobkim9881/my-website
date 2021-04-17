@@ -7,7 +7,7 @@ module.exports = {
         'getting-started',
         'create-a-page',
         'create-a-document',
-        'create-a-blog-post',
+        '10-20-create-a-blog-post',
         'markdown-features',
         'thank-you',
       ],

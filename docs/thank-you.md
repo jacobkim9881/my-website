@@ -8,7 +8,7 @@ You have learned the **basics of Docusaurus** and made some changes to the **ini
 
 But Docusaurus has **much more to offer**!
 
-## What's next?
+## What's next? {#whats-next}
 
 - [Read the official documentation](https://v2.docusaurus.io/).
 - [Design and Layout your Docusaurus site](https://v2.docusaurus.io/docs/styling-layout)
